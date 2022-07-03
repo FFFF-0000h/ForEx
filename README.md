@@ -1,0 +1,2 @@
+# ForEx
+GlobalForEx Journal
